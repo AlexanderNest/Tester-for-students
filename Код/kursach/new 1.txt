@@ -1,0 +1,24 @@
+﻿Сколько лет Саше? 14 15 16 19 19;
+В каком городе он живет? Москва Ярославль Мурманск Сочи Москва;
+Сколько сейчас времени? 12:29 16:49 21:17 23:11 21:17;
+Какая скорость света? 100 1000 300000 12334 300000
+<p>Введите название теста   <input type="text" name="name" style="width: 438px;"></p>
+
+
+ALTER TABLE table1 DEFAULT CHARACTER SET utf8_bin
+ALTER DATABASE database1 DEFAULT CHARACTER SET utf8_bin
+
+ L:\xampp\apache\conf\extra\httpd-vhosts.conf
+	<VirtualHost *:80>
+    ServerAdmin root@localhost
+    DocumentRoot "C:/xampp/htdocs/kursach"
+    ServerName testing.alexander
+    ServerAlias www.testing.alexander
+</VirtualHost>
+
+
+ L:\Windows\System32\drivers\etc\hosts
+
+127.0.0.1       testing.alexander
+127.0.0.1       www.testing.alexander/
+

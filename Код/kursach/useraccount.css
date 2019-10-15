@@ -1,0 +1,18 @@
+.showbutton{
+	
+	
+	background: url("https://www.valoris.ro/wp-content/uploads/2019/03/varianta-2.jpg");
+	background-size: cover;
+
+	height: 3%;
+	width: 3%;
+	text-decoration: none;
+	color: white;
+}
+
+.center-div{
+     position:absolute;
+    top:50%;
+    left:50%;
+    margin:-200px 0 0 -200px;
+}

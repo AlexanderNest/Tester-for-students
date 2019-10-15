@@ -1,0 +1,54 @@
+.index{
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin:-200px 0 0 -200px;
+}
+.choosetest{
+	position:absolute;
+    top:50%;
+    left:50%;
+    margin:-200px 0 0 -200px;
+	width: 350px;	height: 200px;
+    background: #fc0; 
+    outline: 2px solid #000; 
+    border: 3px solid #fff; 
+    border-radius: 20px;
+}
+
+input.button {
+  background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+        border-radius: 7px;
+    color: #555555;
+    display:block;
+    width: auto;
+        margin: auto;
+    font-size: 13px;
+        text-align:center;
+    height: auto;
+    line-height: 20px;
+    margin-bottom: auto;
+    padding: 10px 6px;
+    vertical-align: middle;
+        text-decoration:none;
+}
+input.button:hover, input.button:focus {
+   border-color: rgba(82, 168, 236, 0.8);
+   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+   outline: 0 none;
+}*/
+
+.showbutton{
+	display: flex;
+	background: url("https://pp.userapi.com/c628118/u20180748/video/l_150064d7.jpg") 0% 0%;
+	background-size: contain;
+	justify-content: center;
+	align-items: center;
+	height: 120px;
+	width: 160px;
+	text-decoration: none;
+	color: red;
+}
